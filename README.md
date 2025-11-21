@@ -1,9 +1,8 @@
-# Hyperparameter Optimizer
-
 <p align="center">
-  <img src="imgs/Hyperparameter Optimizer (Python Package).png" alt="hpo" width="300">
+  <img src="imgs/Hyperparameter Optimizer (Python Package).png" alt="hpo" width="500">
 </p>
 
+# Hyperparameter Optimizer
 A lightweight and flexible Python library for hyperparameter tuning using metaheuristic techniques.  
 Currently, the library includes **Particle Swarm Optimization (PSO)** and **Pattern Search (PS)** only.
 
