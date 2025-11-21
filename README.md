@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/Hyperparameter Optimizer (Python Package).png" alt="hpo" width="500">
+  <img src="imgs/Hyperparameter Optimizer (Python Package).png" alt="hpo" width="400">
 </p>
 
 # Hyperparameter Optimizer
