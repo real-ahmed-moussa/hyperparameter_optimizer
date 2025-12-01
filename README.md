@@ -4,8 +4,7 @@
   <img src="imgs/Hyperparameter Optimizer (Python Package).png" alt="hpo" width="300">
 </p>
 
-A lightweight and flexible Python library for hyperparameter tuning using metaheuristic techniques.  
-Currently, the library includes **Particle Swarm Optimization (PSO)** and **Pattern Search (PS)** only.
+A lightweight and flexible Python library for hyperparameter tuning using metaheuristic techniques. Currently, the library includes **Particle Swarm Optimization (PSO)** and **Pattern Search (PS)** only.
 
 Designed for Scikit-learn-compatible models, this package offers an easy-to-use interface for optimizing model performance in just a few lines.
 
